@@ -1,0 +1,113 @@
+Please enter a postion of a queen: 
+
+Q # # # # # # # 
+# # # # Q # # # 
+# # # # # # # Q 
+# # # # # Q # # 
+# # Q # # # # # 
+# # # # # # Q # 
+# Q # # # # # # 
+# # # Q # # # # 
+Solution 1 with queen 1 in 1A:
+The positions of the queens are:
+Row 1: 1A
+Row 2: 2E
+Row 3: 3H
+Row 4: 4F
+Row 5: 5C
+Row 6: 6G
+Row 7: 7B
+Row 8: 8D
+
+Total numbers of backtracks before this solution was found:
+Forward Checking: 63
+Directional Look Ahead: 6
+
+
+Total Backtracks in Column input
+Total Forward checks = 63
+Total Directional Look Ahead checks = 6
+
+Q # # # # # # # 
+# # # # # Q # # 
+# # # # # # # Q 
+# # Q # # # # # 
+# # # # # # Q # 
+# # # Q # # # # 
+# Q # # # # # # 
+# # # # Q # # # 
+Solution 2 with queen 1 in 1A:
+The positions of the queens are:
+Row 1: 1A
+Row 2: 2F
+Row 3: 3H
+Row 4: 4C
+Row 5: 5G
+Row 6: 6D
+Row 7: 7B
+Row 8: 8E
+
+Total numbers of backtracks before this solution was found:
+Forward Checking: 21
+Directional Look Ahead: 3
+
+
+Total Backtracks in Column input
+Total Forward checks = 84
+Total Directional Look Ahead checks = 9
+
+Q # # # # # # # 
+# # # # # # Q # 
+# # # Q # # # # 
+# # # # # Q # # 
+# # # # # # # Q 
+# Q # # # # # # 
+# # # # Q # # # 
+# # Q # # # # # 
+Solution 3 with queen 1 in 1A:
+The positions of the queens are:
+Row 1: 1A
+Row 2: 2G
+Row 3: 3D
+Row 4: 4F
+Row 5: 5H
+Row 6: 6B
+Row 7: 7E
+Row 8: 8C
+
+Total numbers of backtracks before this solution was found:
+Forward Checking: 17
+Directional Look Ahead: 2
+
+
+Total Backtracks in Column input
+Total Forward checks = 101
+Total Directional Look Ahead checks = 11
+
+Q # # # # # # # 
+# # # # # # Q # 
+# # # # Q # # # 
+# # # # # # # Q 
+# Q # # # # # # 
+# # # Q # # # # 
+# # # # # Q # # 
+# # Q # # # # # 
+Solution 4 with queen 1 in 1A:
+The positions of the queens are:
+Row 1: 1A
+Row 2: 2G
+Row 3: 3E
+Row 4: 4H
+Row 5: 5B
+Row 6: 6D
+Row 7: 7F
+Row 8: 8C
+
+Total numbers of backtracks before this solution was found:
+Forward Checking: 11
+Directional Look Ahead: 1
+
+
+Total Backtracks in Column input
+Total Forward checks = 112
+Total Directional Look Ahead checks = 12
